@@ -31,7 +31,7 @@ Now that you have the predicted price for each diamond, it’s time to calculate
 * diamonds.csv - contains carat, cut, clarity, and price information for each diamond in the dataset used to build the regression model.
 * new_diamonds.csv - contains carat, cut, and clarity information for the diamonds the company would like to purchase.
 
-## Authors 
+## Author 
 [@masabumair](https://github.com/masabumair023)
 
   
